@@ -1,0 +1,95 @@
+
+body{
+
+	background-color: #272522;
+
+}
+header { 
+   text-align: center;
+   background-image: url("NYC_hd0.jpg");
+   height: 700px; 
+   background-position: center; 
+   background-repeat: no-repeat; 
+   background-size: cover; 
+   color: #0A0B05;
+   padding: 10px;
+   margin: 0 auto;
+
+}
+
+table{
+
+	width: 100%;
+	color: white;
+	background: #202020;
+	position: sticky;
+
+
+}
+
+.brand{
+	font-size: 25px;
+	font-family: Brush Script MT;
+	width: 150px;
+	height: 50px;
+	background-color: transparent;
+	color: #DBA971;
+	font-size: medium;
+
+}
+
+.top{
+
+	
+	margin-top: 230px;
+}
+
+.profile{
+	display: flex;
+	color: white;
+}
+
+.bio{
+	flex: 50%;
+	width: 50%;
+
+}
+
+#bio_lay{
+	background-color: black;
+	margine: 100px;
+	padding: 100px;
+}
+
+#bio_lay h1{
+
+	padding: 30px;
+}
+
+#bio_lay p{
+	font-size: large;
+	padding: 30px;
+}
+
+
+.bio img {
+	
+	max-width: 80%;
+    height:auto;
+    padding: 20px;
+    padding-right: 200px;
+    padding-top: 100px;
+
+}
+footer{
+	padding: 20px;
+	background-color: #B7BCB5;
+	display: flex;
+
+}
+
+.bottom{
+		flex: 50%;
+		width: 50%;
+		text-align: center;
+}
